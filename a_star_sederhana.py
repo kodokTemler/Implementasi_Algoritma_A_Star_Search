@@ -294,8 +294,4 @@ if __name__ == "__main__":
             jalankan_skenario(kode, daftar_skenario[kode])
 
         else:
-<<<<<<< HEAD
             print("Pilihan tidak valid. Masukkan angka 0 sampai 6.")
-=======
-            print("Pilihan tidak valid. Masukkan angka 0 sampai 6.")
->>>>>>> 01d8bcbdb8ad1439a086fe3628aa3315580d5d61
